@@ -1,0 +1,20 @@
+html{
+    background: linear-gradient(#f69d3c, #3f87a6);
+}
+h1{
+    text-transform: capitalize;
+    font-size: large;
+}
+img{
+    border: 5px solid #ECE4C3;
+    width: 100%;
+    
+}
+.poster{
+    color: #ECE4C3;
+    padding: 50px;
+    font-family: 'Libre Baskerville', serif;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
